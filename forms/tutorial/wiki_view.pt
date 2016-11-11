@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Wiki: View</title>
+</head>
+<center>
+<body>
+
+<h1>Wiki</h1>
+
+<a href="${request.route_url('wikipage_add')}">Add
+    WikiPage</a>
+<ul>
+    <li tal:repeat="page pages" style="list-style-position: inside;">
+        <a href="${request.route_url('wikipage_view', uid=page.uid)}">
+                ${page.title}
+        </a>
+    </li>
+</ul>
+</body>
+</center>
+</html>

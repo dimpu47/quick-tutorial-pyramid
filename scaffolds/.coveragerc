@@ -1,0 +1,3 @@
+[run]
+source = scaffolds
+omit = scaffolds/test*
