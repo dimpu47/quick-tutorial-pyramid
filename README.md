@@ -1,5 +1,5 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# quick-tutorial for Pyramid
-This repo contains a series of short exercises practiced while following documentation of the Pyramid Framework for python.
+quick-tutorial for Pyramid
+series of short exercises practiced while following documentation of the Pyramid Framework.
 @ http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
