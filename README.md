@@ -5,7 +5,7 @@ series of short exercises practiced while following documentation of the Pyramid
 
 [Quick Tutorial for Pyramid](http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html)
 
-- Quick Project Startup with Scaffolds
+-  Quick Project Startup with Scaffolds
 -  Single-File Web Applications
 -  Python Packages for Pyramid Applications
 -  Application Configuration with .ini Files
