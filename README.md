@@ -4,8 +4,7 @@ This is a personal learning exercise to learn about Pyramid Framework.
 series of short exercises practiced while following documentation of the Pyramid Framework.
 
 [Quick Tutorial for Pyramid](http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- 
+
 - Quick Project Startup with Scaffolds
 -  Single-File Web Applications
 -  Python Packages for Pyramid Applications
@@ -28,3 +27,6 @@ series of short exercises practiced while following documentation of the Pyramid
 -  Databases Using SQLAlchemy
 -  Logins with authentication
 -  Protecting Resources With Authorization
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
